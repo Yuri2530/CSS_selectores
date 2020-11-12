@@ -1,0 +1,17 @@
+#identificador{
+    color: maroon;
+}
+
+.nombre{
+    color: lightgreen;
+}
+
+h1{
+   color: red !important;
+}
+
+
+[yuri = "sanguino"]{
+    color: mediumblue;
+}
+
